@@ -1,0 +1,8 @@
+{
+  "environment": "Environment",
+  "environmentType": "UAT",
+  "developedBy": "Developed By",
+  "yankushPrasad": "Yankush Prasad",
+  "extentConfigFile": "extent-config.xml",
+  "reportName": "Accessibility"
+}
